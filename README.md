@@ -1,7 +1,7 @@
 # spotconnect-airplay-docker
 
 A docker image for [SpotConnect (AirPlay)](https://github.com/philippe44/SpotConnect).  
-The image includes version [0.2.7](https://github.com/philippe44/SpotConnect/releases/tag/0.2.7).  
+The image includes version [0.2.6](https://github.com/philippe44/SpotConnect/releases/tag/0.2.6).  
 
 ## References
 
