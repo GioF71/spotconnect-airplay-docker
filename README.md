@@ -6,7 +6,7 @@ The image includes version [0.2.6](https://github.com/philippe44/SpotConnect/rel
 ## References
 
 This is based on [this project](https://github.com/philippe44/SpotConnect) by [philippe44](https://github.com/philippe44).  
-It will let you use your AirPlay renderers as Spotify Connect devices.  
+It will let you use your AirPlay renderers as Spotify Connect devices, including those that you have created using [Shairport Sync](https://github.com/mikebrady/shairport-sync).  
 
 ## Links
 
