@@ -59,6 +59,10 @@ services:
     restart: unless-stopped
 ```
 
+## Caveats
+
+On my desktop PC, I had to set `PREFER_STATIC` to yes, the non-static version of the executable is not working for me, at least on x86_64 linux architecture. 
+
 ## Changelog
 
 DATE|DESCRIPTION
