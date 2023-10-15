@@ -1,7 +1,7 @@
 # spotconnect-airplay-docker
 
 A docker image for [SpotConnect (AirPlay)](https://github.com/philippe44/SpotConnect).  
-The image includes version [0.2.6](https://github.com/philippe44/SpotConnect/releases/tag/0.2.6).  
+The image includes version [0.3.0](https://github.com/philippe44/SpotConnect/releases/tag/0.3.0).  
 
 ## References
 
@@ -67,4 +67,5 @@ On my desktop PC, I had to set `PREFER_STATIC` to yes, the non-static version of
 
 DATE|DESCRIPTION
 :---|:---
+2023-10-15|Bump to release [0.3.0](https://github.com/philippe44/SpotConnect/releases/tag/0.3.0)
 2023-10-11|First version using release [0.2.6](https://github.com/philippe44/SpotConnect/releases/tag/0.2.6)

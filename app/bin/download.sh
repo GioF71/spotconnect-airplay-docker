@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SPOT_CONNECT_VERSION="0.2.6"
+SPOT_CONNECT_VERSION="0.3.0"
 
 mkdir -p /app/release
 cd /app/release
