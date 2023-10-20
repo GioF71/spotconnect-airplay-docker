@@ -54,18 +54,8 @@ fi
 chown -R $PUID:$PGID $HOME_DIR
 chown -R $PUID:$PGID /config
 
-binary_file=/app/bin/spotraop-linux
-if [[ -n "$PREFER_STATIC" ]]; then
-    echo "PREFER_STATIC=[$PREFER_STATIC]"
-    if [[ "${PREFER_STATIC^^}" == "YES" || "${PREFER_STATIC^^}" == "Y" ]]; then
-        echo "Selecting static version ..."
-        binary_file=$binary_file-static
-        echo ". done."
-    elif [[ "${PREFER_STATIC^^}" != "NO" && "${PREFER_STATIC^^}" != "N" ]]; then
-        echo "Invalid value for PREFER_STATIC [$PREFER_STATIC]!"
-        exit 2
-    fi
-fi
+# static is currently enforced for airplay version of SpotConnect
+binary_file=/app/bin/spotraop-linux-static
 
 version=$(cat /app/bin/version.txt)
 

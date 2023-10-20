@@ -35,7 +35,6 @@ LABEL source="https://github.com/GioF71/spotconnect-airplay-docker"
 
 ENV PUID ""
 ENV PGID ""
-ENV PREFER_STATIC ""
 ENV VORBIS_BITRATE ""
 
 VOLUME /config

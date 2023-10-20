@@ -32,7 +32,6 @@ VARIABLE|DESCRIPTION
 :---|:---
 PUID|Group used to run the application, defaults to `1000`
 PGID|Group used to run the application, defaults to `1000`
-PREFER_STATIC|Prefer `-static` version of the executable, defaults to `no`
 VORBIS_BITRATE|Set the vorbis bitrate to `320`, `160` or `96`, defaults to `320`
 
 ## Run
@@ -67,6 +66,7 @@ On my desktop PC, I had to set `PREFER_STATIC` to yes, the non-static version of
 
 DATE|DESCRIPTION
 :---|:---
+2023-10-20|Enforce use of static binary
 2023-10-19|Bump to release [0.3.2](https://github.com/philippe44/SpotConnect/releases/tag/0.3.2)
 2023-10-15|Bump to release [0.3.0](https://github.com/philippe44/SpotConnect/releases/tag/0.3.0)
 2023-10-11|First version using release [0.2.6](https://github.com/philippe44/SpotConnect/releases/tag/0.2.6)
