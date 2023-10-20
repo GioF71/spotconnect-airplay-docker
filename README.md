@@ -60,7 +60,8 @@ services:
 
 ## Caveats
 
-On my desktop PC, I had to set `PREFER_STATIC` to yes, the non-static version of the executable is not working for me, at least on x86_64 linux architecture. 
+We are currently enforcing use of the static variant of the binaries, because ssl libraries are not available in any supported version on the current debian stable base image.  
+See [here](https://github.com/philippe44/SpotConnect/issues/23#issuecomment-1773173101) for more details.
 
 ## Changelog
 
