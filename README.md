@@ -67,6 +67,7 @@ See [here](https://github.com/philippe44/SpotConnect/issues/23#issuecomment-1773
 
 DATE|DESCRIPTION
 :---|:---
+2023-11-05|Bump to release [0.4.1](https://github.com/philippe44/SpotConnect/releases/tag/0.4.1)
 2023-11-02|Bump to release [0.3.3](https://github.com/philippe44/SpotConnect/releases/tag/0.3.3)
 2023-10-20|Enforce use of static binary
 2023-10-19|Bump to release [0.3.2](https://github.com/philippe44/SpotConnect/releases/tag/0.3.2)
