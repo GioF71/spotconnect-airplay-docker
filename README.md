@@ -58,15 +58,11 @@ services:
     restart: unless-stopped
 ```
 
-## Caveats
-
-We are currently enforcing use of the static variant of the binaries, because ssl libraries are not available in any supported version on the current debian stable base image.  
-See [here](https://github.com/philippe44/SpotConnect/issues/23#issuecomment-1773173101) for more details.
-
 ## Changelog
 
 DATE|DESCRIPTION
 :---|:---
+2023-11-15|Installing libssl-dev so non-static binary works as well (see [#1](https://github.com/GioF71/spotconnect-airplay-docker/issues/1))
 2023-11-11|Bump to release [0.5.0](https://github.com/philippe44/SpotConnect/releases/tag/0.5.0)
 2023-11-05|Bump to release [0.4.1](https://github.com/philippe44/SpotConnect/releases/tag/0.4.1)
 2023-11-02|Bump to release [0.3.3](https://github.com/philippe44/SpotConnect/releases/tag/0.3.3)
