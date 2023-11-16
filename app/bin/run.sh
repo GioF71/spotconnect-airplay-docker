@@ -54,7 +54,6 @@ fi
 chown -R $PUID:$PGID $HOME_DIR
 chown -R $PUID:$PGID /config
 
-# static is currently enforced for airplay version of SpotConnect
 binary_file=/app/bin/spotraop-linux
 if [[ -n "$PREFER_STATIC" ]]; then
     echo "PREFER_STATIC=[$PREFER_STATIC]"
