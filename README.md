@@ -62,6 +62,8 @@ services:
 
 DATE|DESCRIPTION
 :---|:---
+2023-11-22|Add `local-build.sh` for easier building
+2023-11-22|Bump to release [0.5.1](https://github.com/philippe44/SpotConnect/releases/tag/0.5.1)
 2023-11-15|Installing libssl-dev so non-static binary works as well (see [#1](https://github.com/GioF71/spotconnect-airplay-docker/issues/1))
 2023-11-11|Bump to release [0.5.0](https://github.com/philippe44/SpotConnect/releases/tag/0.5.0)
 2023-11-05|Bump to release [0.4.1](https://github.com/philippe44/SpotConnect/releases/tag/0.4.1)
