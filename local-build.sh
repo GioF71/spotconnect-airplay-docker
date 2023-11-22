@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build . -t giof71/spotconnect-upnp:local
+docker build . -t giof71/spotconnect-airplay:local
