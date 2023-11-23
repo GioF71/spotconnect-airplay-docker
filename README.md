@@ -3,6 +3,11 @@
 A docker image for [SpotConnect (AirPlay)](https://github.com/philippe44/SpotConnect).  
 The image includes version [0.5.2](https://github.com/philippe44/SpotConnect/releases/tag/0.5.2).  
 
+## Notice
+
+This repository has been replaced by [this other one].  
+There will not be updated on this repository. Please migrate to the newer one (it's super-easy).
+
 ## References
 
 This is based on [this project](https://github.com/philippe44/SpotConnect) by [philippe44](https://github.com/philippe44).  
