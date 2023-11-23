@@ -1,7 +1,7 @@
 # spotconnect-airplay-docker
 
 A docker image for [SpotConnect (AirPlay)](https://github.com/philippe44/SpotConnect).  
-The image includes version [0.5.1](https://github.com/philippe44/SpotConnect/releases/tag/0.5.1).  
+The image includes version [0.5.2](https://github.com/philippe44/SpotConnect/releases/tag/0.5.2).  
 
 ## References
 
@@ -63,6 +63,7 @@ services:
 
 DATE|DESCRIPTION
 :---|:---
+2023-11-23|Bump to release [0.5.2](https://github.com/philippe44/SpotConnect/releases/tag/0.5.2)
 2023-11-22|Add `local-build.sh` for easier building
 2023-11-22|Bump to release [0.5.1](https://github.com/philippe44/SpotConnect/releases/tag/0.5.1)
 2023-11-15|Installing libssl-dev so non-static binary works as well (see [#1](https://github.com/GioF71/spotconnect-airplay-docker/issues/1))
