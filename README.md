@@ -6,7 +6,7 @@ The image includes version [0.5.2](https://github.com/philippe44/SpotConnect/rel
 ## Notice
 
 This repository has been replaced by [this other one](https://github.com/GioF71/spotconnect-docker).  
-There will not be updated on this repository. Please migrate to the newer one (it's super-easy).
+There will not be updates on this repository. Please migrate to the newer one (it's super-easy).
 
 ## References
 
